@@ -1,6 +1,6 @@
 # Identicon
 
-**TODO: Add description**
+Application that generates a random github icon
 
 ## Installation
 
