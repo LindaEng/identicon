@@ -46,6 +46,7 @@ iex -S mix
 
 ```elixir
 iex> Identicon.generate("JohnDoe")
+```
 
 
 This will generate an identicon based on the provided string.
