@@ -45,7 +45,7 @@ iex -S mix
 2. Inside the IEx shell, you can generate an identicon by calling the `Identicon.generate/1` function and passing a string as the argument. For example:
 
 ```elixir
-iex> Identicon.generate("JohnDoe")
+iex> Identicon.main("JohnDoe")
 ```
 
 
